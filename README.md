@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 I'm Saivarshitha, on a Journey through the realms of code!
 
 Here are some ideas to get you started:
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
         Connect with me on LinkedIn or shoot me an email at saivarshithaguddanti2004@gmail.com - let's geek out over code together!
 - 😄 Pronouns: SHE ...
 - ⚡ Fun fact: I'm a caffeine-fueled coder by day and a DIY enthusiast by night—I love building things both on and off the screen! 🛠️✨
--->
+  
